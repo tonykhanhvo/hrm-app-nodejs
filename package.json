@@ -4,6 +4,7 @@
   "description": "Node JS Express Web Application with MongoDB",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "khanhvgfx12517@funix.edu.vn",
